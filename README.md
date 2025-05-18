@@ -8,4 +8,4 @@ Sou Técnica em Eletrônica formada pelo IFSP e atualmente estudante de Ciência
 🛠️ Experiência com Python, JavaScript, Java e projetos com Arduino.
 ---
 📚 Curiosa por natureza e sempre em busca de novos aprendizados.
-
+---
