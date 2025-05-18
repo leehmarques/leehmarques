@@ -1,3 +1,5 @@
+🤍 Sejam bem-vindo(a)s!
+---
 👋 Olá, eu sou a Leticia!
 Sou Técnica em Eletrônica formada pelo IFSP e atualmente estudante de Ciência e Tecnologia na UFABC. Tenho paixão por tecnologia e gosto de explorar a interseção entre engenharia, programação e inovação.
 ---
